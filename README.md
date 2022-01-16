@@ -12,7 +12,7 @@ The election analysis audits congressional election results in Jefferson, Denver
 - Denver has 306,055 votes with 82.8% of total votes.
 - Arapahoe has 24,801 votes with 6.7% of total votes.
 
-**Lagest County**
+**Largest County**
 - Denver is the largest County with 306,055 votes, and 82.8T of total votes.
 
 **Votes details of Canadidates**
