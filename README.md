@@ -5,32 +5,32 @@ The election analysis audits congressional election results in Jefferson, Denver
 
 ## Election-Audit Results
 
-** There are total 369,711 votes **
+**There are total 369,711 votes**
 
-** Votes details in each County **
-    - Jefferson has 38,855 votes with 10.5% of total votes.
-    - Denver has 306,055 votes with 82.8% of total votes.
-    - Arapahoe has 24,801 votes with 6.7% of total votes.
+**Votes details in each County**
+- Jefferson has 38,855 votes with 10.5% of total votes.
+- Denver has 306,055 votes with 82.8% of total votes.
+- Arapahoe has 24,801 votes with 6.7% of total votes.
 
-** Lagest County **
-    - Denver is the largest County with 306,055 votes, and 82.8T of total votes.
+**Lagest County**
+- Denver is the largest County with 306,055 votes, and 82.8T of total votes.
 
-** Votes details of Canadidates **
-    - Charles Casper Stockham gets 23.0% of total votes with 85,213 votes
-    - Diana DeGette wins gets 73.8% of total votes with 272,892 votes
-    - Raymon Anthony Doane gets 3.1% fo total votes with 11,606 votes
+**Votes details of Canadidates**
+- Charles Casper Stockham gets 23.0% of total votes with 85,213 votes
+- Diana DeGette wins gets 73.8% of total votes with 272,892 votes
+- Raymon Anthony Doane gets 3.1% fo total votes with 11,606 votes
 
-** Winner of the election **
-    - Diana DeGette wins the election with 272,892 votes which is 73.8% of total votes.
+**Winner of the election**
+- Diana DeGette wins the election with 272,892 votes which is 73.8% of total votes.
 
 ## Election-Audit Sumamry
 
 Python is implemented in this analysis process to efficiently and accurately pull the election results. This Python code is reusable with simple modification in any election analysis as the examples below:
 
-** Change file Path to another election file **
+**Change file Path to another election file**
 <img src="Resources/FilePath_MOD.png">
 
-** Define Variables with the new file structure columns **
+**Define Variables with the new file structure columns **
 <img src="Resources/Variables_MOD.png">
 
 
